@@ -1,0 +1,21 @@
+.channel-Details{
+    width:400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-block: 15px;
+    margin-inline: 8px;
+    color: black;
+}
+
+.channel-Details img{
+    height: 225px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 10px ;
+}
+
+.channel-title{
+    margin-top: 10px;
+}

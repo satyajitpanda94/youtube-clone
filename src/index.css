@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&family=Poppins:wght@300;600&family=Roboto:wght@300;500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    text-decoration: none;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.check-circle {
+    margin-left: 5px;
+    background-color: #656565;
+    color: white;
+    border-radius: 50%;
+    font-size: 12px;
+}
+
+.items-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

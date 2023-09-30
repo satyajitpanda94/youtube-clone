@@ -1,0 +1,27 @@
+.feed-navbar{
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.feed-navbar button{
+    color: black;
+    background-color: rgb(231, 231, 231);
+    padding:  10px 20px;
+    margin-inline: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.feed-navbar button:hover{
+    background-color: rgb(210, 210, 210);
+}
+
+button:focus{
+    background-color: rgb(255, 35, 35);
+    color: white;
+}
+

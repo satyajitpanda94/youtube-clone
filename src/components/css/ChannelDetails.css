@@ -1,0 +1,37 @@
+.channel-details-container{
+    width: 85%;
+    margin-inline: auto;
+}
+.banner{
+    width: 100%;
+    height: 210px;
+}
+
+.banner img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.channel-details{
+    margin-block: 20px;
+    display: flex;
+    align-items: center;
+    height: 130px;
+    width: 100%;
+}
+
+.channel-details > img{
+    height: 100%;
+    border-radius: 50%;
+}
+
+.channel-details > .text{
+    font-size: 0.9rem;
+    font-weight: 400;
+    margin-left: 20px;
+}
+/* 
+.items-container .video-card{
+    width: 200px;
+} */
