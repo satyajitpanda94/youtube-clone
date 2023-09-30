@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.aca84619.css",
-    "main.js": "/static/js/main.38f31246.js",
-    "static/media/Youtube-Logo-Font.webp": "/static/media/Youtube-Logo-Font.027d217163bc03d9af07.webp",
-    "index.html": "/index.html",
-    "main.aca84619.css.map": "/static/css/main.aca84619.css.map",
-    "main.38f31246.js.map": "/static/js/main.38f31246.js.map"
+    "main.css": "/youtube-clone/static/css/main.aca84619.css",
+    "main.js": "/youtube-clone/static/js/main.131be071.js",
+    "static/media/Youtube-Logo-Font.webp": "/youtube-clone/static/media/Youtube-Logo-Font.027d217163bc03d9af07.webp",
+    "index.html": "/youtube-clone/index.html",
+    "main.aca84619.css.map": "/youtube-clone/static/css/main.aca84619.css.map",
+    "main.131be071.js.map": "/youtube-clone/static/js/main.131be071.js.map"
   },
   "entrypoints": [
     "static/css/main.aca84619.css",
-    "static/js/main.38f31246.js"
+    "static/js/main.131be071.js"
   ]
 }
